@@ -1,10 +1,3 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+![Thumbnail Youtube](https://github.com/wass08/r3f-objects-explode/assets/6551176/3a0c2c13-9e87-4690-ba5f-2ffcba4294c7)
 
-```
-yarn
-yarn dev
-```
-
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Live demo](https://r3f-objects-explode.vercel.app/)https://r3f-objects-explode.vercel.app/
